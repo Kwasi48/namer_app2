@@ -1,6 +1,6 @@
 # namer_app2
 
-A new Flutter project.
+A Flutter project to generate words. This is for beginners 
 
 ## Getting Started
 
